@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**adiaux/adiaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> 👋 I'm Aditya ! <img src="https://media.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<h2>
+Under Contruction :construction: :construction_worker:</h2>
+<br><br><br><br><br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Now on Spotify, I'm listening to ...
+<p align="center"><img align="center" src="https://novatorem-sigma-gold.vercel.app/api/spotify" alt=" Not listening to Spotify right now" width="550"/></p>
+
+
+[//]: # (<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/angular.svg" /> just adding icons)
