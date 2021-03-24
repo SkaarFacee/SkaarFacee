@@ -1,13 +1,20 @@
 
 <h2 align="center"> 👋 I'm Aditya ! <img src="https://media.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/AYMKkDwavwA9Y72Frn/giphy.gif" width="230">
+Hi,
 
-<h2>
-Under Contruction :construction: :construction_worker:</h2>
-<br><br><br><br><br><br><br>
+I am a aspiring data engineer, currently working with Machine Learning. I love to read in my free time too ! 
+
+- :robot: We can always chat about 
+    - ROS 
+    - Web DEV 
+    - Networks 
+    - Machine Learning :computer:
 
 
+How to reach me?<br>
+[![Follow on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaAnil19) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil/)
 
+Sayōnara,<br>
 
 ### Now on Spotify, I'm listening to ...
 <p align="center"><img align="center" src="https://novatorem-sigma-gold.vercel.app/api/spotify" alt=" Not listening to Spotify right now" width="550"/></p>
