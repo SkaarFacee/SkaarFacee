@@ -5,7 +5,6 @@ Hi,
 I am a aspiring data engineer, currently working with Machine Learning. I love to read in my free time too ! 
 
 - :robot: We can always chat about 
-    - ROS 
     - Web DEV 
     - Networks 
     - Machine Learning :computer:
