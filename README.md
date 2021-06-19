@@ -8,6 +8,12 @@ I am a aspiring data engineer, currently working with Machine Learning. I love t
     - Web DEV 
     - Networks 
     - Machine Learning :computer:
+    - Deep Learning ☣️
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaarfacee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=skaarfacee&show_icons=true&theme=dracula)
+
 
 
 How to reach me?<br>
