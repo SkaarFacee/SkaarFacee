@@ -14,6 +14,9 @@ I am a aspiring data engineer, currently working with Machine Learning. I love t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaarfacee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skaarfacee&show_icons=true&theme=dracula)
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=react"/></a>
+</p>
 
 
 How to reach me?<br>
