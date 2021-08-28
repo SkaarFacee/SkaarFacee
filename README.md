@@ -14,7 +14,10 @@ I am a aspiring data engineer, currently working with Machine Learning. I love t
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaarfacee&layout=compact&theme=dracula"/>
     <img src="https://github-readme-stats.vercel.app/api?username=skaarfacee&show_icons=true&theme=dracula"/>
 </p>
-
+    
+<p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=skaarfacee&theme=tokyonight&hide_border=true"/>
+</p>
 
 How to reach me?<br>
 [![Follow on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdityaAnil19) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-anil/)
