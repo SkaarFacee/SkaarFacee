@@ -2,7 +2,7 @@
 <h2 align="center"> 👋 I'm Aditya ! <img src="https://media.giphy.com/media/Ig9phyxs1ePIBSZDKS/giphy.gif" width="50"></h2>
 Hi,
 
-I am a aspiring data engineer, currently working with Machine Learning. I love to read in my free time too ! 
+I am a aspiring data scientist, currently working with Machine Learning. I love to read in my free time too ! 
 
 - :robot: We can always chat about 
     - Web DEV 
