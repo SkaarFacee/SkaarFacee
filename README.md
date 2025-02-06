@@ -10,9 +10,8 @@ I am a aspiring data scientist, currently working with Machine Learning. I love 
     - Machine Learning :computer:
     - Deep Learning ☣️
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaarfacee&layout=compact&theme=dracula"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=skaarfacee&show_icons=true&theme=dracula"/>
 </p>
     
 
